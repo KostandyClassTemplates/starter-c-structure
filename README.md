@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# starter-c-structure
-Starter C Files for Structure 
-=======
-
 # C++ Csc 211 Guidelines
 
 This repository provides a structured environment for Csc 211, focusing on intermediate C++ modules. It is designed to help students learn, practice, and explore key concepts in C++ programming at an intermediate level.
@@ -19,6 +14,3 @@ This repository provides a structured environment for Csc 211, focusing on inter
 3. Use `Extra Files` for your own notes or resources.
 4. Check out `Extra Content` for additional challenges and interesting C++ projects.
 
----
-Update this overview with specific module details as your course progresses.
->>>>>>> 5cecfd0 (Add initial README files and .gitignore for project structure)
